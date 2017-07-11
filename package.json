@@ -1,0 +1,19 @@
+{
+  "name": "schematic-metro",
+  "version": "1.0.0",
+  "description": "schematic metro data",
+  "main": "grid.js",
+  "scripts": {
+    "grid": "node grid.js",
+    "import": "node import.js",
+    "export": "node export.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergioedo",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "jsonfile": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}

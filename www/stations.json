@@ -1,0 +1,489 @@
+{
+    "stations": {
+        "111": {
+            "title": "Hospital\nde Bellvitge",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 130,
+                "lon": -257
+            }
+        },
+        "112": {
+            "title": "Bellvitge",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 147,
+                "lon": -253
+            }
+        },
+        "113": {
+            "title": "Av. Carrilet",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 152,
+                "lon": -224
+            }
+        },
+        "114": {
+            "title": "Rbla. Just\nOliveras",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 152,
+                "lon": -203
+            }
+        },
+        "115": {
+            "title": "Can Serra",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 157,
+                "lon": -197
+            }
+        },
+        "116": {
+            "title": "Florida",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 164,
+                "lon": -197
+            }
+        },
+        "117": {
+            "title": "Torrassa",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 173,
+                "lon": -206
+            }
+        },
+        "118": {
+            "title": "Santa Eulàlia",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 185,
+                "lon": -213
+            }
+        },
+        "119": {
+            "title": "Mercat Nou",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 194,
+                "lon": -213
+            }
+        },
+        "120": {
+            "title": "Plaça de\nSants",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 205,
+                "lon": -213
+            }
+        },
+        "509": {
+            "title": "Cornellà Centre",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 91,
+                "lon": -162
+            }
+        },
+        "510": {
+            "title": "Gavarra",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 107,
+                "lon": -172.91641355140183
+            }
+        },
+        "511": {
+            "title": "Sant Ildefons",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 126,
+                "lon": -173
+            }
+        },
+        "512": {
+            "title": "Can Boixeres",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 142,
+                "lon": -178
+            }
+        },
+        "513": {
+            "title": "Can Vidalet",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 153,
+                "lon": -178
+            }
+        },
+        "514": {
+            "title": "Pubilla Cases",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 164,
+                "lon": -178
+            }
+        },
+        "515": {
+            "title": "CollBlanc",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 184,
+                "lon": -192
+            }
+        },
+        "516": {
+            "title": "Badal",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 194,
+                "lon": -202
+            }
+        },
+        "517": {
+            "title": "Plaça de\nSants",
+            "address": "35-36 Clarendon St, Cambridge CB1 1JX",
+            "phone": "01223 778272",
+            "position": {
+                "lat": 205,
+                "lon": -213
+            }
+        }
+    },
+    "lines": [
+        {
+            "name": "L1",
+            "label": "L1 - Hospital de Bellvitge",
+            "color": "#CE1126",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "coords": [
+                        130,
+                        -257
+                    ],
+                    "name": "111",
+                    "labelPos": "N"
+                },
+                {
+                    "coords": [
+                        142,
+                        -257
+                    ]
+                },
+                {
+                    "coords": [
+                        144,
+                        -256
+                    ]
+                },
+                {
+                    "coords": [
+                        147,
+                        -253
+                    ],
+                    "name": "112",
+                    "labelPos": "NW"
+                },
+                {
+                    "coords": [
+                        151,
+                        -249
+                    ]
+                },
+                {
+                    "coords": [
+                        152,
+                        -247
+                    ]
+                },
+                {
+                    "coords": [
+                        152,
+                        -224
+                    ],
+                    "name": "113",
+                    "labelPos": "W",
+                    "marker": "interchange"
+                },
+                {
+                    "coords": [
+                        152,
+                        -203
+                    ],
+                    "name": "114",
+                    "labelPos": "W"
+                },
+                {
+                    "coords": [
+                        152,
+                        -198
+                    ]
+                },
+                {
+                    "coords": [
+                        153,
+                        -197
+                    ],
+                    "dir": "N"
+                },
+                {
+                    "coords": [
+                        157,
+                        -197
+                    ],
+                    "name": "115",
+                    "labelPos": "N"
+                },
+                {
+                    "coords": [
+                        164,
+                        -197
+                    ],
+                    "name": "116",
+                    "labelPos": "NE"
+                },
+                {
+                    "coords": [
+                        166,
+                        -198
+                    ]
+                },
+                {
+                    "coords": [
+                        173,
+                        -206
+                    ],
+                    "name": "117",
+                    "labelPos": "NE",
+                    "marker": "interchange"
+                },
+                {
+                    "coords": [
+                        179,
+                        -212
+                    ]
+                },
+                {
+                    "coords": [
+                        181,
+                        -213
+                    ]
+                },
+                {
+                    "coords": [
+                        185,
+                        -213
+                    ],
+                    "name": "118",
+                    "labelPos": "N"
+                },
+                {
+                    "coords": [
+                        194,
+                        -213
+                    ],
+                    "name": "119",
+                    "labelPos": "S"
+                },
+                {
+                    "coords": [
+                        205,
+                        -213
+                    ],
+                    "name": "120",
+                    "labelPos": "SW",
+                    "marker": "interchange"
+                }
+            ]
+        },
+        {
+            "name": "L5",
+            "label": "L5 - Cornellà Centre - Vall d'Hebron",
+            "color": "#005A97",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "coords": [
+                        91,
+                        -162
+                    ],
+                    "name": "509",
+                    "labelPos": "SW",
+                    "marker": "interchange"
+                },
+                {
+                    "coords": [
+                        102,
+                        -173
+                    ]
+                },
+                {
+                    "coords": [
+                        107,
+                        -172.91641355140183
+                    ],
+                    "name": "510",
+                    "labelPos": "S"
+                },
+                {
+                    "coords": [
+                        126,
+                        -173
+                    ],
+                    "name": "511",
+                    "labelPos": "N"
+                },
+                {
+                    "coords": [
+                        131,
+                        -173
+                    ]
+                },
+                {
+                    "coords": [
+                        136,
+                        -178
+                    ]
+                },
+                {
+                    "coords": [
+                        142,
+                        -178
+                    ],
+                    "name": "512",
+                    "labelPos": "N"
+                },
+                {
+                    "coords": [
+                        153,
+                        -178
+                    ],
+                    "name": "513",
+                    "labelPos": "S"
+                },
+                {
+                    "coords": [
+                        164,
+                        -178
+                    ],
+                    "name": "514",
+                    "labelPos": "S"
+                },
+                {
+                    "coords": [
+                        170,
+                        -178
+                    ]
+                },
+                {
+                    "coords": [
+                        184,
+                        -192
+                    ],
+                    "name": "515",
+                    "labelPos": "NE",
+                    "marker": "interchange"
+                },
+                {
+                    "coords": [
+                        194,
+                        -202
+                    ],
+                    "name": "516",
+                    "labelPos": "NE"
+                },
+                {
+                    "coords": [
+                        205,
+                        -213
+                    ],
+                    "name": "517",
+                    "labelPos": "NE",
+                    "marker": "interchange"
+                }
+            ]
+        }
+    ],
+    "river": {
+        "name": "River",
+        "label": "River",
+        "color": null,
+        "shiftCoords": [
+            0,
+            0
+        ],
+        "nodes": [
+            {
+                "coords": [
+                    0,
+                    -107
+                ]
+            },
+            {
+                "coords": [
+                    68,
+                    -176
+                ]
+            },
+            {
+                "coords": [
+                    68,
+                    -208
+                ]
+            },
+            {
+                "coords": [
+                    120,
+                    -290
+                ]
+            },
+            {
+                "coords": [
+                    120,
+                    -325
+                ]
+            },
+            {
+                "coords": [
+                    106,
+                    -339
+                ]
+            },
+            {
+                "coords": [
+                    106,
+                    -346
+                ]
+            }
+        ]
+    }
+}

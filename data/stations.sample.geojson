@@ -1,0 +1,2719 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "Mill",
+                "title": "Mill",
+                "labelPos": "S",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "Regal",
+                "title": "Regal",
+                "labelPos": "NW",
+                "marker": "interchange",
+                "shCoordX": 0,
+                "shCoordY": 0,
+                "canonical": true,
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "dir": "E",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    -3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "ClarendonArms",
+                "title": "Clarendon\nArms",
+                "labelPos": "E",
+                "marker": "interchange",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "StRadegund",
+                "title": "St Radegund",
+                "labelPos": "E",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "dir": "N",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "KingStreetRun",
+                "title": "King Street\nRun",
+                "labelPos": "N",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "ChampionOfTheThames",
+                "title": "Champion\nof the\nThames",
+                "labelPos": "S",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "BrewHouse",
+                "title": "Brew\nHouse",
+                "labelPos": "SW",
+                "marker": "interchange",
+                "shCoordX": 0,
+                "shCoordY": 0.5,
+                "canonical": true,
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "Mitre",
+                "title": "Mitre",
+                "labelPos": "N",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "BaronOfBeef",
+                "title": "Baron\nof Beef",
+                "labelPos": "S",
+                "canonical": true,
+                "order": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "order": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "dir": "W",
+                "order": 140
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "Eagle",
+                "title": "Eagle",
+                "labelPos": "NW",
+                "marker": "interchange",
+                "order": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "name": "Anchor",
+                "title": "Anchor",
+                "labelPos": "E",
+                "order": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    -2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "order": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    -3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "dir": "S",
+                "order": 180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Town",
+                "color": "#ffd300",
+                "label": "Town",
+                "order": 190
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "CarltonArms",
+                "title": "Carlton Arms",
+                "labelPos": "N",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1,
+                    33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "CarpentersArms",
+                "title": "Carpenter's Arms",
+                "labelPos": "NW",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "Grapes",
+                "title": "Grapes",
+                "labelPos": "NW",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5,
+                    28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7,
+                    26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8,
+                    24
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8,
+                    22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8,
+                    21
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "SirIsaacNewton",
+                "title": "Sir Isaac Newton",
+                "labelPos": "SW",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7,
+                    19
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "Architect",
+                "title": "Architect",
+                "labelPos": "SW",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5,
+                    17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "CastleInn",
+                "title": "Castle\nInn",
+                "labelPos": "NE",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "Punter",
+                "title": "Punter",
+                "labelPos": "SW",
+                "order": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "order": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1,
+                    11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "Pickerel",
+                "title": "Pickerel",
+                "labelPos": "SW",
+                "marker": "interchange",
+                "order": 140
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "BaronOfBeef",
+                "title": "Baron\nof Beef",
+                "labelPos": "NW",
+                "marker": "interchange",
+                "order": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "Mitre",
+                "title": "Mitre",
+                "labelPos": "N",
+                "canonical": true,
+                "order": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Castle",
+                "color": "#b36305",
+                "label": "Castle",
+                "name": "BrewHouse",
+                "title": "Brew\nHouse",
+                "labelPos": "W",
+                "marker": "interchange",
+                "order": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "Granta",
+                "title": "Granta",
+                "labelPos": "SW",
+                "marker": "interchange",
+                "shCoordX": 0,
+                "shCoordY": -1,
+                "canonical": true,
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "Pickerel",
+                "title": "Pickerel",
+                "labelPos": "SW",
+                "marker": "interchange",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4,
+                    20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6,
+                    22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "Boathouse",
+                "title": "Boathouse",
+                "labelPos": "S",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "PortlandArms",
+                "title": "Portland Arms",
+                "labelPos": "N",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "Waterman",
+                "title": "Waterman",
+                "labelPos": "S",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "OldSpring",
+                "title": "Old Spring",
+                "labelPos": "S",
+                "marker": "interchange",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "Haymakers",
+                "title": "Haymakers",
+                "labelPos": "N",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Riverbank",
+                "color": "#0098d4",
+                "label": "Riverbank",
+                "name": "GreenDragon",
+                "title": "Green Dragon",
+                "labelPos": "S",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "Eagle",
+                "title": "Eagle",
+                "labelPos": "NE",
+                "marker": "interchange",
+                "canonical": true,
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "BathHouse",
+                "title": "Bath House",
+                "labelPos": "S",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "PintShop",
+                "title": "Pint Shop",
+                "labelPos": "N",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "ClarendonArms",
+                "title": "Clarendon\nArms",
+                "labelPos": "SW",
+                "marker": "interchange",
+                "canonical": true,
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "ElmTree",
+                "title": "Elm Tree",
+                "labelPos": "NW",
+                "marker": "interchange",
+                "canonical": true,
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "Cricketers",
+                "title": "Cricketers",
+                "labelPos": "S",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "FreePress",
+                "title": "Free Press",
+                "labelPos": "N",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "TramDepot",
+                "title": "Tram Depot",
+                "labelPos": "S",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "DukeOfCambridge",
+                "title": "Duke\nof Cambridge",
+                "labelPos": "N",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "Dobblers",
+                "title": "Dobblers",
+                "labelPos": "S",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "BlueMoon",
+                "title": "Blue Moon",
+                "labelPos": "N",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "AlexandraArms",
+                "title": "Alexandra\nArms",
+                "labelPos": "S",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "Geldart",
+                "title": "Geldart",
+                "labelPos": "N",
+                "order": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "order": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "order": 140
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "order": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "CambridgeBlue",
+                "title": "Cambridge Blue",
+                "labelPos": "NE",
+                "order": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76,
+                    -3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Backstreet",
+                "color": "#e32017",
+                "label": "Backstreet",
+                "name": "KingstonArms",
+                "title": "Kingston Arms",
+                "labelPos": "NE",
+                "order": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78,
+                    -5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "GreenManGrantchester",
+                "title": "Green Man",
+                "labelPos": "W",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27,
+                    -22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "RedLion",
+                "title": "Red Lion",
+                "labelPos": "W",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27,
+                    -20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "RupertBrook",
+                "title": "Rupert Brooke",
+                "labelPos": "W",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27,
+                    -18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "BlueBallInn",
+                "title": "Blue Ball Inn",
+                "labelPos": "W",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27,
+                    -16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27,
+                    -11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26,
+                    -9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24,
+                    -7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22,
+                    -5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "RedBull",
+                "title": "Red Bull",
+                "labelPos": "N",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Granta",
+                "title": "Granta",
+                "labelPos": "S",
+                "marker": "interchange",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Mill",
+                "title": "Mill",
+                "labelPos": "S",
+                "shCoordX": 0,
+                "shCoordY": -1,
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Regal",
+                "title": "Regal",
+                "labelPos": "S",
+                "marker": "interchange",
+                "order": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 140
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32,
+                    -3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Hopbine",
+                "title": "Hopbine",
+                "labelPos": "NW",
+                "order": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42,
+                    7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "BurleighArms",
+                "title": "Burleigh\nArms",
+                "labelPos": "NW",
+                "order": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44,
+                    9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "CornerHouse",
+                "title": "Corner House",
+                "labelPos": "S",
+                "order": 190
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Wrestlers",
+                "title": "Wrestlers",
+                "labelPos": "N",
+                "order": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 210
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 220
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "order": 230
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64,
+                    13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "AncientShepherds",
+                "title": "Ancient Shepherds",
+                "labelPos": "SE",
+                "order": 240
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86,
+                    36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "KingsHead",
+                "title": "King's Head",
+                "labelPos": "SE",
+                "order": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88,
+                    38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Grantchester",
+                "color": "#00782a",
+                "label": "Grantchester",
+                "name": "Plough",
+                "title": "Plough",
+                "labelPos": "SE",
+                "order": 260
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90,
+                    40
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    -2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "SixBells",
+                "title": "Six Bells",
+                "labelPos": "NE",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "LiveAndLetLive",
+                "title": "Live and Let Live",
+                "labelPos": "NE",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44,
+                    -8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "SalisburyArms",
+                "title": "Salisbury Arms",
+                "labelPos": "NE",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    -10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "WhiteSwan",
+                "title": "White Swan",
+                "labelPos": "NE",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48,
+                    -12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "DevonshireArms",
+                "title": "Devonshire Arms",
+                "labelPos": "SW",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50,
+                    -14
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "EarlOfBeaconsfield",
+                "title": "Earl of Beaconsfield",
+                "labelPos": "NE",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52,
+                    -16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "Empress",
+                "title": "Empress",
+                "labelPos": "NE",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54,
+                    -18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "RoyalStandard",
+                "title": "Royal Standard",
+                "labelPos": "SW",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56,
+                    -20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "MillRoad",
+                "color": "#a0a5a9",
+                "label": "Mill Road",
+                "name": "Brook",
+                "title": "Brook",
+                "labelPos": "SW",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58,
+                    -22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "Mill",
+                "title": "Mill",
+                "labelPos": "S",
+                "shCoordX": 0,
+                "shCoordY": -2,
+                "canonical": true,
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29,
+                    -5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "GrainStore",
+                "title": "Grain Store",
+                "labelPos": "NE",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31,
+                    -7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "PrinceRegent",
+                "title": "Prince Regent",
+                "labelPos": "NE",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33,
+                    -9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "FlyingPig",
+                "title": "Flying Pig",
+                "labelPos": "NE",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37,
+                    -13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "EarlOfDerby",
+                "title": "Earl of Derby",
+                "labelPos": "SW",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    -15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "Rock",
+                "title": "Rock",
+                "labelPos": "SW",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41,
+                    -17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "Med",
+                "title": "Med",
+                "labelPos": "SW",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49,
+                    -25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51,
+                    -26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "HillsRoad",
+                "color": "#9b0056",
+                "label": "Hills Road",
+                "name": "QueenEdith",
+                "title": "Queen Edith",
+                "labelPos": "S",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53,
+                    -26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "LordByronInn",
+                "title": "Lord Byron Inn",
+                "labelPos": "SE",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6,
+                    -36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "HudsonsAleHouse",
+                "title": "Hudson's Ale House",
+                "labelPos": "SE",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3,
+                    -33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "GreenManTrumpington",
+                "title": "Green Man",
+                "labelPos": "SE",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1,
+                    -31
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "Alma",
+                "title": "Alma",
+                "labelPos": "SE",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19,
+                    -11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "PantonArms",
+                "title": "Panton\nArms",
+                "labelPos": "SE",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22,
+                    -8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "Regal",
+                "title": "Regal",
+                "labelPos": "NE",
+                "marker": "interchange",
+                "shCoordX": 0,
+                "shCoordY": -1,
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    -4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "BrewHouse",
+                "title": "Brew\nHouse",
+                "labelPos": "W",
+                "marker": "interchange",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "Maypole",
+                "title": "Maypole",
+                "labelPos": "W",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "FortStGeorge",
+                "title": "Fort St George",
+                "labelPos": "E",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "OldSpring",
+                "title": "Old Spring",
+                "labelPos": "SE",
+                "marker": "interchange",
+                "canonical": true,
+                "order": 100
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 110
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23,
+                    25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 120
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24,
+                    27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 130
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26,
+                    29
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 140
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "MiltonArms",
+                "title": "Milton Arms",
+                "labelPos": "N",
+                "order": 150
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "GoldenHind",
+                "title": "Golden Hind",
+                "labelPos": "S",
+                "order": 160
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "order": 170
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "dir": "E",
+                "order": 180
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    31
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "JennyWren",
+                "title": "Jenny Wren",
+                "labelPos": "E",
+                "order": 190
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "Northern",
+                "color": "#000000",
+                "label": "Northern",
+                "name": "Ship",
+                "title": "Ship",
+                "labelPos": "E",
+                "order": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14,
+                    -28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5,
+                    -8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 30
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 40
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7,
+                    14
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11,
+                    17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 70
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50,
+                    17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 80
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52,
+                    18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "line": "River",
+                "label": "River",
+                "order": 90
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76,
+                    42
+                ]
+            }
+        }
+    ]
+}
